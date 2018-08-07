@@ -1,0 +1,17 @@
+#! python3 library
+
+# send2trash
+# requests
+# beautifulsoup4
+# selenium
+# openpyxl
+# PyPDF2
+# python-docx
+# imapclient
+# pyzmail
+# twilio
+# pillow
+# pyobjc-core
+# pyobjc
+# pyautogui
+#
