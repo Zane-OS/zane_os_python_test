@@ -1,7 +1,7 @@
 ###############################################################
 
 # 字典 一种灵活的数据访问和组织方式
-myCat = {'size':"fat",'color':"gray",'disposition':"loud"}
+myCat = {'size': "fat", 'color': "gray", 'disposition': "loud"}
 
 print(myCat)
 
@@ -17,13 +17,13 @@ print(myCat[123])
 
 # 字典与列表的对比
 # 字典中的表项是无序排序的
-spam = ["2","1","3"]
-bacon = ["3","1","2"]
+spam = ["2", "1", "3"]
+bacon = ["3", "1", "2"]
 spam = bacon
 # False
 
-eggs = {"name":"zzw","age":"16"}
-ham = {"age":"16","name":"zzw"}
+eggs = {"name": "zzw", "age": "16"}
+ham = {"age": "16", "name": "zzw"}
 eggs = ham
 # True
 # 由于字典是无序的，所以不能像list那样切片
@@ -87,7 +87,7 @@ if "color" not in spam:
 	spam["color"] = "withe"
 # setdefault()方法帮助我们快速实现这个功能（like this）
 spam = {"name": "pooka", "age": "56"}
-spam.setdefault("color","withe")
+spam.setdefault("color", "withe")
 
 
 

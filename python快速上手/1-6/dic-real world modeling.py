@@ -1,3 +1,4 @@
+#! python3 /user/bin/env python3
 import pprint
 # ##################################################################
 # theBoard = {

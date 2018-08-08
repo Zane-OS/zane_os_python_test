@@ -1,6 +1,6 @@
 # test the count of character count
 import pprint
-message  = "it was a bright cold day in april, and the clocks were striking thirteen."
+message = "it was a bright cold day in april, and the clocks were striking thirteen."
 count = {}
 for character in message:
 	count.setdefault(character, 0)
