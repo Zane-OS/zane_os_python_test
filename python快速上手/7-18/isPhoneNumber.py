@@ -48,3 +48,10 @@ area_num, mid_num, last_num = mo1.groups()
 # groups()不包含整体匹配结果
 print('phone num: '+'\n'+'area_num: '+area_num+'\n'+'mid_num: '+mid_num+'\n'+'last_num: '+last_num)
 
+# 正则表达式匹配复习
+# 1、使用 import re 导入正则表达式模块
+# 2、使用re.compile()函数创建一个Regex对象（记得使用原始字符串）
+# 3、向Regex对象的search()方法传递想要查询的字符串，返回一个Match对象
+# 4、调用Match的group()/groups()方法，返回实际匹配文本的字符串
+# 5、通过对group传递参数0/[不传]，返回整体匹配结果，传递1～... 获取对应分组结果
+# 6、groups()返回匹配到的分组
