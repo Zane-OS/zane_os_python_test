@@ -102,6 +102,51 @@ print(neww.group())
 
 """
 正则表达是复习
-
+* ? 匹配零次或者一次前面的分组
+* * 匹配零次或者多次前面的分组
+* + 匹配一次或者多次前面的分组
+* {n}匹配n次前面的分组
+* {n,}匹配n次或者多次前面的分组
+* {,m}匹配零次到m次前面的分组
+* {n,m}匹配至少n次、至多m次前面的分组
+* {n,m}?或者*?或者+?对前面的分组进行贪心匹配
+* ^spam意味着字符串必须以spam开头
+* spam$意味着字符串必须以spam结尾
+* . 匹配所有字符串，换行符除外
+* [abc]匹配方括号内的任意字符（诸如a、b、c）
+* [^abc]匹配不再方括号内的字符
 """
 
+# 不区分大小写的匹配
+robocop = re.compile(r'robocop', re.I)
+rob = robocop.search('Robocop is part man, part machine, all cop.').group()
+print('--->不区分大小写的匹配')
+print(rob)
+
+# 用sub()方法替换字符串
+# 正则表达式不仅能找到文本模式，而且可以使用新的文本替换掉这些模式
+# Regex对象的 sub() 方法有两个参数，第一个参数是字符串，用于取代发现的匹配，第二个参数字符串，即正则表达式
+namesRegex = re.compile(r'Agent \w+')
+name_sub = namesRegex.sub('Zane', 'Agent Alice gave the secret documents to Agent Bob.')
+print('--->替换字符串')
+print(name_sub)
+# 有时候你希望匹配的文本本身，作为替换的一部分
+# 可以使用 (\1)(\2)(\3)... 表示'替换输入分组1、2、3...的文本'
+agentNamesRegex = re.compile(r'Agent (\w)\w')
+agentNames = agentNamesRegex.sub(r'\1*****', 'Agent Alice gave the secret documents to Agent Bob.')
+print(agentNames)
+
+# 管理复杂的正则表达式
+# 如果要匹配的文本很简单，那很好
+# 但如果匹配的文本很浮在，那我们需要对正则表达式放在多行并添加注释
+# 我们需要给re.compile()方法传入re.VERBOSE作为第二个参数
+phoneRegex = re.compile(r'((\d{3}|\(\d{3}\))?(\s|-|\.)?\d{3}(\s|-|\.)\d{4}(\s*(ext|x|ext.)\s*\d{2,5})?)')
+# 写成如下形式并加注释
+phoneRegex = re.compile(r'''(
+    (\d{3}|\(\d{3}\))?  # area code
+    (\s|-|\.)?          # separator
+    \d{3}               # first 3digits
+    (\s|-|\.)           # separator
+    \d{4}               # last 4 digits
+    (\s*(ext|x|ext.)\s*\d{2,5})? # extension 
+    )''', re.VERBOSE)
