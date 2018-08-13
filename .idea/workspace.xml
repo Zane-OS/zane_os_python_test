@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="37e5adc3-2df8-42cc-b9e3-6dc3b7b499dd" name="Default" comment="copy">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/zane_os_python_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zane_os_python_test.iml" afterDir="false" />
+=======
+    <list default="true" id="37e5adc3-2df8-42cc-b9e3-6dc3b7b499dd" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/python快速上手/7-18/testchdir/sonnet29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python快速上手/7-18/testchdir/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python快速上手/7-18/fileReadOrWrite.py" beforeDir="false" afterPath="$PROJECT_DIR$/python快速上手/7-18/fileReadOrWrite.py" afterDir="false" />
+>>>>>>> 34ebb4e812aaeca47da17c81e8cd21893faaff5c
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/python$isPhoneNumber.coverage" NAME="isPhoneNumber Coverage Results" MODIFIED="1533731880777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python快速上手/7-18" />
     <SUITE FILE_PATH="coverage/python$str_operation.coverage" NAME="str-operation Coverage Results" MODIFIED="1533731845438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python快速上手/1-6" />
   </component>
@@ -56,21 +65,101 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+=======
+    <SUITE FILE_PATH="coverage/zane_os_python_test$phoneNumAndEmailExtract.coverage" NAME="phoneNumAndEmailExtract Coverage Results" MODIFIED="1533882365827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python快速上手/7-18" />
+    <SUITE FILE_PATH="coverage/zane_os_python_test$fileReadOrWrite.coverage" NAME="fileReadOrWrite Coverage Results" MODIFIED="1534131704965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python快速上手/7-18" />
+    <SUITE FILE_PATH="coverage/zane_os_python_test$isPhoneNumber.coverage" NAME="isPhoneNumber Coverage Results" MODIFIED="1533785849963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python快速上手/7-18" />
+    <SUITE FILE_PATH="coverage/zane_os_python_test$regexFindall.coverage" NAME="regexFindall Coverage Results" MODIFIED="1533872656065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python快速上手/7-18" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="zane_os_python_test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="str-pyperclip.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python快速上手/1-6/str-pyperclip.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+>>>>>>> 34ebb4e812aaeca47da17c81e8cd21893faaff5c
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python快速上手/1-6/str-pyperclip.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="261">
               <caret line="26" selection-start-line="26" selection-end-line="26" />
+=======
+      <file leaf-file-name="isPhoneNumber.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python快速上手/7-18/isPhoneNumber.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="21" selection-end-line="142" selection-end-column="19" />
+>>>>>>> 34ebb4e812aaeca47da17c81e8cd21893faaff5c
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python快速上手/1-6/str-operation.py">
+=======
+      <file leaf-file-name="regexFindall.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python快速上手/7-18/regexFindall.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phoneNumAndEmailExtract.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python快速上手/7-18/phoneNumAndEmailExtract.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fileReadOrWrite.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python快速上手/7-18/fileReadOrWrite.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="144" column="35" selection-start-line="144" selection-start-column="35" selection-end-line="144" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bacon.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python快速上手/7-18/testchdir/bacon.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="sonnet29.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python快速上手/7-18/testchdir/sonnet29.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python快速上手/7-18/testchdir/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python快速上手/1-6/list.py">
+>>>>>>> 34ebb4e812aaeca47da17c81e8cd21893faaff5c
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="248">
               <caret line="128" column="5" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
@@ -118,7 +207,15 @@
         <option value="$PROJECT_DIR$/python快速上手/1-6/characterCount.py" />
         <option value="$PROJECT_DIR$/python快速上手/1-6/str-pyperclip.py" />
         <option value="$PROJECT_DIR$/python快速上手/7-18/isPhoneNumber.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/python快速上手/1-6/str-operation.py" />
+=======
+        <option value="$PROJECT_DIR$/python快速上手/7-18/regexFindall.py" />
+        <option value="$PROJECT_DIR$/python快速上手/7-18/phoneNumAndEmailExtract.py" />
+        <option value="$PROJECT_DIR$/python快速上手/7-18/testchdir/test.txt" />
+        <option value="$PROJECT_DIR$/python快速上手/7-18/testchdir/sonnet29.txt" />
+        <option value="$PROJECT_DIR$/python快速上手/7-18/fileReadOrWrite.py" />
+>>>>>>> 34ebb4e812aaeca47da17c81e8cd21893faaff5c
       </list>
     </option>
   </component>
@@ -134,7 +231,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" fullScreen="true">
+=======
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+>>>>>>> 34ebb4e812aaeca47da17c81e8cd21893faaff5c
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -172,6 +276,13 @@
               <item name="python快速上手" type="462c0819:PsiDirectoryNode" />
               <item name="7-18" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="zane_os_python_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zane_os_python_test" type="462c0819:PsiDirectoryNode" />
+              <item name="python快速上手" type="462c0819:PsiDirectoryNode" />
+              <item name="7-18" type="462c0819:PsiDirectoryNode" />
+              <item name="testchdir" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -184,7 +295,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+=======
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+>>>>>>> 34ebb4e812aaeca47da17c81e8cd21893faaff5c
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -198,7 +313,30 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.isPhoneNumber">
+=======
+  <component name="RunManager" selected="Python.fileReadOrWrite">
+    <configuration name="fileReadOrWrite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zane_os_python_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python快速上手/7-18" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python快速上手/7-18/fileReadOrWrite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+>>>>>>> 34ebb4e812aaeca47da17c81e8cd21893faaff5c
     <configuration name="isPhoneNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="zane_os_python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,11 +355,16 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+<<<<<<< HEAD
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="str-operation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    </configuration>
+    <configuration name="phoneNumAndEmailExtract" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 34ebb4e812aaeca47da17c81e8cd21893faaff5c
       <module name="zane_os_python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,16 +372,44 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python快速上手/1-6" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python快速上手/7-18" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python快速上手/1-6/str-operation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python快速上手/7-18/phoneNumAndEmailExtract.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="regexFindall" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zane_os_python_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python快速上手/7-18" />
+>>>>>>> 34ebb4e812aaeca47da17c81e8cd21893faaff5c
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python快速上手/1-6/str-operation.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python快速上手/7-18/regexFindall.py" />
+>>>>>>> 34ebb4e812aaeca47da17c81e8cd21893faaff5c
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+<<<<<<< HEAD
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
@@ -251,6 +422,21 @@
       <list>
         <item itemvalue="Python.isPhoneNumber" />
         <item itemvalue="Python.str-operation" />
+=======
+    </configuration>
+    <list>
+      <item itemvalue="Python.isPhoneNumber" />
+      <item itemvalue="Python.regexFindall" />
+      <item itemvalue="Python.phoneNumAndEmailExtract" />
+      <item itemvalue="Python.fileReadOrWrite" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fileReadOrWrite" />
+        <item itemvalue="Python.phoneNumAndEmailExtract" />
+        <item itemvalue="Python.regexFindall" />
+        <item itemvalue="Python.isPhoneNumber" />
+>>>>>>> 34ebb4e812aaeca47da17c81e8cd21893faaff5c
       </list>
     </recent_temporary>
   </component>
@@ -277,6 +463,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19599427" />
@@ -285,6 +472,24 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.36626506" />
+=======
+    <frame x="0" y="0" width="1154" height="1080" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3283582" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3283582" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32887402" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39104477" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27860695" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49833888" visible="true" weight="0.36780575" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.5016611" side_tool="true" weight="0.18471338" />
+      <window_info id="Favorites" order="2" sideWeight="0.5016611" side_tool="true" weight="0.18471338" />
+>>>>>>> 34ebb4e812aaeca47da17c81e8cd21893faaff5c
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -339,6 +544,181 @@
     <option name="LAST_COMMIT_MESSAGE" value="copy" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/python3 library.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/str-operation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="132" column="8" selection-start-line="132" selection-start-column="8" selection-end-line="132" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/str-pyperclip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str-operation.py" />
+    <entry file="file://$PROJECT_DIR$/python3 library.txt" />
+    <entry file="file://$PROJECT_DIR$/str-pyperclip.py" />
+    <entry file="file://$PROJECT_DIR$/pw.py" />
+    <entry file="file://$PROJECT_DIR$/bulletPointAdder.py" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/dic-real world modeling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/dic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/characterCount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/bulletPointAdder.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/str-operation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="132" column="8" selection-start-line="132" selection-start-column="8" selection-end-line="132" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/python3 library.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3435">
+          <caret line="229" column="26" selection-start-line="229" selection-start-column="26" selection-end-line="229" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/str-pyperclip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevconsole.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_console_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4080">
+          <caret line="280" selection-start-line="280" selection-end-line="280" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/7-18/isPhoneNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/dic-real world modeling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/dic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/characterCount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/bulletPointAdder.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3435">
+          <caret line="229" column="26" lean-forward="true" selection-start-line="229" selection-start-column="26" selection-end-line="229" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/python3 library.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/str-operation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="132" column="8" selection-start-line="132" selection-start-column="8" selection-end-line="132" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/1-6/str-pyperclip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 34ebb4e812aaeca47da17c81e8cd21893faaff5c
     <entry file="file://$PROJECT_DIR$/str-operation.py" />
     <entry file="file://$PROJECT_DIR$/python3 library.txt" />
     <entry file="file://$PROJECT_DIR$/str-pyperclip.py" />
@@ -398,17 +778,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python快速上手/1-6/str-operation.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="248">
           <caret line="128" column="5" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
+=======
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+>>>>>>> 34ebb4e812aaeca47da17c81e8cd21893faaff5c
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python快速上手/7-18/isPhoneNumber.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="165">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+=======
+        <state relative-caret-position="540">
+          <caret line="36" column="21" selection-end-line="142" selection-end-column="19" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/7-18/regexFindall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
+>>>>>>> 34ebb4e812aaeca47da17c81e8cd21893faaff5c
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/7-18/phoneNumAndEmailExtract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/7-18/testchdir/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/7-18/testchdir/bacon.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/7-18/testchdir/sonnet29.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python快速上手/7-18/fileReadOrWrite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="144" column="35" selection-start-line="144" selection-start-column="35" selection-end-line="144" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
