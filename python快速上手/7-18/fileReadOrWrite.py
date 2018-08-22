@@ -48,6 +48,7 @@ Mac OS 中的相对路径有待查询
 # os.makedirs(os.getcwd()+'/testchdir/xxx/xx/x') # 成功在当前工作目录创建文件夹
 
 # os.path模块
+
 # os.path模块包含了很多于文件名称相关的函数，比如上边使用的os.path.join()来构建所有操作系统上都有效的路径
 # ⚠️：在这之后的很多测试都需要导入os
 
